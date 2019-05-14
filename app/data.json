@@ -1,0 +1,25 @@
+{
+  "agenda": [
+    {"time" : "09:00",
+    "location" : "Credit Suisse cafeteria",
+    "type" : "Registration",
+    "topic" : "Start booth setup. Coffee/tea available all day",
+    "lead" : ""},
+    {"time" : "10:00",
+    "location" : "Credit Suisse cafeteria",
+    "type" : "Registration",
+    "topic" : "Start booth setup. Coffee/tea available all day",
+    "lead" : ""},
+    {"time" : "11:00",
+    "location" : "Credit Suisse cafeteria",
+    "type" : "Registration",
+    "topic" : "Start booth setup. Coffee/tea available all day",
+    "lead" : ""},
+    {"time" : "12:00",
+    "location" : "Credit Suisse cafeteria",
+    "type" : "Registration",
+    "topic" : "Start booth setup. Coffee/tea available all day",
+    "lead" : ""}
+  ],
+  "count" : 7
+}

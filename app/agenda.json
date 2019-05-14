@@ -1,0 +1,67 @@
+{
+  "agenda":[
+  {
+    "time": "09:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "15 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  },
+  {
+    "time": "16:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "16 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  },
+  {
+    "time": "09:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "17 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  }
+],
+"agendaBengaluru": [
+  {
+    "time": "09:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "15 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  },
+  {
+    "time": "16:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "16 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  },
+  {
+    "time": "09:00",
+    "span" : "9:00-9:30",
+    "distance": "10km Away",
+    "anchor": "NA",
+    "date": "17 May 2019",
+    "location": "Thunderbolt, LLC. 494 Juniper Lane, Mount Vernon, OR, 97865", 
+    "fee": "$0.00",
+    "speaker": "Rose Howe"
+  }
+],
+  "count" : 7
+}

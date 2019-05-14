@@ -1,0 +1,89 @@
+{
+  "speakers": [
+    {
+      "name"  : "How to stop bleeding",
+      "title" : "First Aid & Emergencies",
+      "email" : "jamie.wymer@compuware.com",
+      "bio"   : "Apply direct pressure on the cut or wound with a clean cloth, tissue, or piece of gauze until bleeding stops. If blood soaks through the material, don’t remove it. Put more cloth or gauze on top of it and continue to apply pressure. If the wound is on the arm or leg, raise limb above the heart, if possible, to help slow bleeding. Wash your hands again after giving first aid and before cleaning and dressing the wound. Do not apply a tourniquet unless the bleeding is severe and not stopped with direct pressure.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.webmd.com/first-aid/bleeding-cuts-wounds"
+    },
+    {
+      "name"  : "How to treat serious bleeding",
+      "title" : "Stop the Bleed org",
+      "email" : "jamie.wymer@compuware.com",
+      "bio"   : "If you determine it is serious bleeding on the arms or legs, you need to take action immediately to stop the bleeding. Evaluate that it is safe to remain where you are, and then direct another individual to call 911. Refer to link for more",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://stopthebleed.usuhs.edu/"
+    },
+    {
+      "name"  : "How to treat Clean Cut or Wound",
+      "title" : "First Aid & Emergencies",
+      "email" : "jamie.wymer@compuware.com",
+      "bio"   : "Gently clean with soap and warm water. Try to rinse soap out of wound to prevent irritation. Don’t use hydrogen peroxide or iodine, which can damage tissue.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.webmd.com/first-aid/bleeding-cuts-wounds"
+    },
+    {
+      "name"  : "Severe bleeding: First aid",
+      "title" : "Mayo Clinic" ,
+      "email" : "jamie.wymer@compuware.com",
+      "bio"   : "Don't remove large or deeply embedded objects. Don't probe the wound or attempt to clean it yet. Your first job is to stop the bleeding. Wear disposable protective gloves if available. Place a sterile bandage or clean cloth on the wound. Press the bandage firmly with your palm to control bleeding. Apply constant pressure until the bleeding stops. Maintain pressure by binding the wound with a thick bandage or a piece of clean cloth. Don't put direct pressure on an eye injury or embedded object. A tourniquet is effective in controlling life-threatening bleeding from a limb. Apply a tourniquet if you're trained in how to do so. When emergency help arrives, explain how long the tourniquet has been in place.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661"
+    },
+    {
+      "name"  : "Stop the bleed infographic",
+      "title" : "floridahealth" ,
+      "email" : "jamie.wymer@compuware.com",
+      "bio"   : "Refer to infographic web link to know the details",
+      "image" : "./images/ms.png",
+      "linkedin" : "http://www.floridahealth.gov/programs-and-services/emergency-preparedness-and-response/prepare-yourself/_documents/stb-Insert-compress-control.pdf"
+    }
+    
+    
+    ],
+  "speakersBegaluru": [
+    {
+      "name"  : "How to apply first Aid",
+      "title" : "Saves extra bleeding",
+      "email" : "",
+      "bio"   : "some random information, some random information",
+      "image" : "./images/ms.png",
+      "linkedin" : "isome text to read"
+    },
+    {
+      "name"  : "Dr. Santosh Mohanty",
+      "title" : "Vice President and Senior Executive at Tata Consultancy Services Ltd",
+      "bio" : "Dr. Santosh Kumar Mohanty has twenty five years of industry and teaching experience that includes Business Strategy, Partner Collaboration, Analysts Relation, R&D and Leadership Grooming.Dr. Santosh Kumar Mohanty’s prime contribution is in terms of strategizing, building and tailoring solution & service model that leads to enhanced organizational performance. His current research includes Enterprise Architecture, SOA, Solution Engineering, Agile Process, Design of Reuse Program, Analytical Modeling, Business Analytics, Enterprise Search and Knowledge Management. Before joining TCS, he was faculty in reputed institutions and published many articles on fast and stable algorithms that exploit parallel/distributed architecture. During last fifteen years, he was engaged in many large engagements as Lead Architect, Reviewer, Program Head and Steering Committee member. He has been awarded the title of Distinguished IT Architect (Profession Leader) by The Open Group. As a part of organizational development, he is well known for team building and mentoring. He is a member of TCS CTB (Corporate Technology Board). In addition to TCS responsibility, he is in Data-Flows Advisory Group of Data Security Council of India (DSCI), jury member for Tata Group Innovation Initiative (Tata Innovista) and the founding member of AEA Mumbai chapter.",
+      "email"   : "",
+      "image" : "./images/ms.png",
+      "linkedin" : ""
+    },
+    {
+      "name"  : "Siva Rama Krishna",
+      "title" : "Technical Director",
+      "email" : "",
+      "bio"   : "Siva Rama Krishna is a Technical Director works at Oracle, India. He has around 20 years of diverse experience across Sales Consulting, Business Development and Product Management with broad expertise on Middleware and Cloud technologies. He is speaker at various Developer forums & instrumental in Cloud developer solutions. He evangelizes in the areas like DevOps, Cloud Native, Microservices and Serverless.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.linkedin.com/in/chunduru/"
+    },
+    {
+      "name"  : "Usha Narayanabhatta",
+      "title" : "Program Manager",
+      "email" : "",
+      "bio"   : "Program manager at Microsoft, shaping up the Azure DEVOPS service offerings, focused on building product experiences to help customers do Azure deployments using CI/CD pipelines.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.linkedin.com/in/ushanarayanabhatta/"
+    },
+    {
+      "name"  : "Santh Govindaraj",
+      "title" : "Capital Markets Director",
+      "email" : "",
+      "bio"   : "Santh Govindaraj is the co-lead for Capital Markets Technology at Wells Fargo India, based out of Hyderabad. Santh has played technology leadership roles on Capital Markets domain during the last 20 years with organizations like Wells Fargo, Bank of America Merrill Lynch, Broadridge, Goldman Sachs and D E Shaw. He is an Agile enthusiast having been part of several Agile transformations in his experience and an ardent DevOps practitioner.",
+      "image" : "./images/ms.png",
+      "linkedin" : "https://www.linkedin.com/in/santhanamgovindaraj/"
+    }
+    ],
+  "count" : 7
+}

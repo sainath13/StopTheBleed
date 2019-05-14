@@ -1,0 +1,176 @@
+{
+  "booths":[
+  {
+    "name": "Cognizant",
+    "category": "Platinum",
+    "number": "P1",
+    "topic": "",
+    "description": "",
+    "logo": "./images/congnisant.jpg"
+  },
+  {
+    "name": "Oracle",
+    "category": "Platinum",
+    "number": "P2",
+    "topic": "",
+    "description": "",
+    "logo": "./images/oracle.jpg"
+  },
+  {
+    "name": "Microsoft",
+    "category": "Gold",
+    "number": "G1",
+    "topic": "",
+    "description": "",
+    "logo": "./images/ms.png"
+  },
+  {
+    "name": "RedHat",
+    "category": "Gold",
+    "number": "G2",
+    "topic": "",
+    "description": "",
+    "logo": "./images/redhat.jpg"
+  },
+  {
+    "name": "Wipro",
+    "category": "Gold",
+    "number": "G3",
+    "topic": "",
+    "description": "",
+    "logo": "./images/wipro.jpg"
+  },
+  {
+    "name": "Infosys",
+    "category": "Gold",
+    "number": "G4",
+    "topic": "",
+    "description": "",
+    "logo": "./images/infosys.jpg"
+  },
+  {
+    "name": "Thoughtworks, Inc.",
+    "category": "Gold",
+    "number": "G5",
+    "topic": "",
+    "description": "",
+    "logo": "./images/thoughtworks.jpg"
+  },
+  {
+    "name": "Accenture/Avanade",
+    "category": "Gold",
+    "number": "G6",
+    "topic": "",
+    "description": "",
+    "logo": "./images/accenture.jpg"
+  },
+  {
+    "name": "Compuware",
+    "category": "Silver",
+    "number": "S1",
+    "topic": "",
+    "description": "",
+    "logo": "./images/compuware.jpg"
+  },
+  {
+    "name": "DELL EMC",
+    "category": "Silver",
+    "number": "S2",
+    "topic": "",
+    "description": "",
+    "logo": "./images/dell.jpg"
+  },
+  {
+    "name": "Delphix",
+    "category": "Bronze",
+    "number": "B1",
+    "topic": "",
+    "description": "",
+    "logo": "./images/delphix.jpg"
+  },
+  {
+    "name": "Mphasis",
+    "category": "Bronze",
+    "number": "B2",
+    "topic": "",
+    "description": "",
+    "logo": "./images/ms.png"
+  },
+  {
+    "name": "Hexaware",
+    "category": "Bronze",
+    "number": "B3",
+    "topic": "",
+    "description": "",
+    "logo": "./images/hexaware.jpg"
+  },
+  {
+    "name": "HCL",
+    "category": "Bronze",
+    "number": "B4",
+    "topic": "",
+    "description": "",
+    "logo": "./images/hcl.jpg"
+  },
+  {
+    "name": "ITRS",
+    "category": "Bronze",
+    "number": "B5",
+    "topic": "",
+    "description": "",
+    "logo": "./images/itrs.jpg"
+  },
+  {
+    "name": "Atos-Syntel",
+    "category": "Bronze",
+    "number": "B6",
+    "topic": "",
+    "description": "",
+    "logo": "./images/atos.jpg"
+  },
+  {
+    "name": "Slack",
+    "category": "Bronze",
+    "number": "B7",
+    "topic": "",
+    "description": "",
+    "logo": "./images/slack.jpg"
+  },
+  {
+    "name": "Avanade",
+    "category": "Bronze",
+    "number": "B7",
+    "topic": "",
+    "description": "",
+    "logo": "./images/slack.jpg"
+  },
+  {
+    "name": "Forrester",
+    "category": "Bronze",
+    "number": "B7",
+    "topic": "",
+    "description": "",
+    "logo": "./images/slack.jpg"
+  },
+  {
+    "name": "Zinnov",
+    "category": "Bronze",
+    "number": "B7",
+    "topic": "",
+    "description": "",
+    "logo": "./images/slack.jpg"
+  }
+
+],
+
+"boothsBengaluru": [
+  {
+    "name": "TCS",
+    "category": "Silver",
+    "number": "S1",
+    "topic": "",
+    "description": "",
+    "logo": "./images/tcs.jpg"
+  }
+],"count" : 7
+}
