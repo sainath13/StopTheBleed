@@ -1,5 +1,5 @@
 # StopTheBleed
-App submission for Stop The Bleed hackathon 
+App submission Readme file for Stop The Bleed hackathon 
 
 ## Hackathon link:
 https://www.hackerearth.com/challenges/hackathon/stop-the-bleed-hackathon/
@@ -26,3 +26,24 @@ This is a react native project. steps to install the dependencies and run app:
 ### Note: 
 For Android: You might need to install and setup andriod sdk and `ANDROID_HOME` 
 For IOS: You need to install latest version of Xcode and dependencies.
+
+### Screenshots of the app:
+![Create profile](https://raw.githubusercontent.com/sainath13/StopTheBleed/master/blob/create_profile.jpeg)
+
+![Dashboard](https://github.com/sainath13/StopTheBleed/blob/master/blob/Dash_board.jpeg?raw=true)
+
+![Creating Class](https://github.com/sainath13/StopTheBleed/blob/master/blob/Thanks_for_creating_class.jpeg?raw=true)
+
+![Courses](https://github.com/sainath13/StopTheBleed/blob/master/blob/courses.jpeg?raw=true)
+
+![Create a Class](https://github.com/sainath13/StopTheBleed/blob/master/blob/create_a_class.jpeg?raw=true)
+
+![Registration detail](https://github.com/sainath13/StopTheBleed/blob/master/blob/registration_detail.jpeg?raw=true)
+
+![Self help](https://github.com/sainath13/StopTheBleed/blob/master/blob/self_help_page.jpeg?raw=true)
+
+![Share your story](https://github.com/sainath13/StopTheBleed/blob/master/blob/share_your_story.jpeg?raw=true)
+
+![Stories page](https://github.com/sainath13/StopTheBleed/blob/master/blob/stories_page.jpeg?raw=true)
+
+![About us](https://github.com/sainath13/StopTheBleed/blob/master/blob/aboutus.jpeg?raw=true)
